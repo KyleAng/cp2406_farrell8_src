@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="" />
+    <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/ErrorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstBadOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstWithMissingSemicolon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/HelloErrors.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TaV5T0GqKH1h3TB8oUJrtS5o6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kylea\OneDrive\Documents\SP532019\CP2406 Programming III\Practicals" />
+      <recent name="C:\Users\kylea\OneDrive\Documents\SP532019\CP2406 Programming III\Practicals\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -25,6 +51,19 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="First" />
+      <module name="Practicals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.First" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -35,11 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573698010793</updated>
-      <workItem from="1573698015894" duration="535000" />
+      <workItem from="1573698015894" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
