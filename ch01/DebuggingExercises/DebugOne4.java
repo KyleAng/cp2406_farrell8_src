@@ -3,6 +3,6 @@ public class DebugOne4
 {
   public static main(String[] args)
   {
-     JOptionPane.showMessageDialog(null, First GUI program)!
+     JOptionPane.showMessageDialog(null, "First GUI program");
   }
 }

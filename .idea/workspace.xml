@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/ErrorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/First.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstBadOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/FirstWithMissingSemicolon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodeInFigures/HelloErrors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/DebuggingExercises/DebugTwo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/DebuggingExercises/DebugTwo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData4.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CommentsDialogue">
+    <configuration name="CommentsDialogue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommentsDialogue" />
+      <module name="Practicals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="First" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="First" />
       <module name="Practicals" />
@@ -60,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommentsDialogue" />
         <item itemvalue="Application.First" />
       </list>
     </recent_temporary>
@@ -75,6 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573698010793</updated>
       <workItem from="1573698015894" duration="3374000" />
+      <workItem from="1573785158360" duration="455000" />
+      <workItem from="1574383510244" duration="504000" />
     </task>
     <servers />
   </component>
@@ -86,7 +98,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
