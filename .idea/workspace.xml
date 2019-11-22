@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch02/Exercises/QuartsToGallonsInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/Exercises/InchesToFeetInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/Exercises/NauticalMilesInteractive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/BurmaShave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/CommentsDialogue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/MovieQuoteInfo.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +23,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TaV5T0GqKH1h3TB8oUJrtS5o6J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -54,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuartsToGallonsInteractive">
+  <component name="RunManager" selected="Application.InchesToFeetInteractive">
     <configuration name="CommentsDialogue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentsDialogue" />
       <module name="Practicals" />
@@ -68,6 +69,20 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
       <method v="2" />
     </configuration>
+    <configuration name="InchesToFeetInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesToFeetInteractive" />
+      <module name="Practicals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NauticalMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NauticalMiles" />
+      <module name="Practicals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuartsToGallonsInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuartsToGallonsInteractive" />
       <module name="Practicals" />
@@ -77,6 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InchesToFeetInteractive" />
+        <item itemvalue="Application.NauticalMiles" />
         <item itemvalue="Application.QuartsToGallonsInteractive" />
         <item itemvalue="Application.CommentsDialogue" />
         <item itemvalue="Application.First" />
@@ -95,7 +112,7 @@
       <updated>1573698010793</updated>
       <workItem from="1573698015894" duration="3374000" />
       <workItem from="1573785158360" duration="455000" />
-      <workItem from="1574383510244" duration="1997000" />
+      <workItem from="1574383510244" duration="5822000" />
     </task>
     <servers />
   </component>
@@ -114,5 +131,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
