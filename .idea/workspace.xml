@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch02/Exercises/QuartsToGallonsInteractive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/DebuggingExercises/DebugOne4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/DebuggingExercises/DebugTwo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/DebuggingExercises/DebugTwo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ch13/DebuggingExercises/DebugData4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/BurmaShave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/CommentsDialogue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/MovieQuoteInfo.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommentsDialogue">
+  <component name="RunManager" selected="Application.QuartsToGallonsInteractive">
     <configuration name="CommentsDialogue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentsDialogue" />
       <module name="Practicals" />
@@ -67,8 +68,16 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
       <method v="2" />
     </configuration>
+    <configuration name="QuartsToGallonsInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartsToGallonsInteractive" />
+      <module name="Practicals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuartsToGallonsInteractive" />
         <item itemvalue="Application.CommentsDialogue" />
         <item itemvalue="Application.First" />
       </list>
@@ -86,7 +95,7 @@
       <updated>1573698010793</updated>
       <workItem from="1573698015894" duration="3374000" />
       <workItem from="1573785158360" duration="455000" />
-      <workItem from="1574383510244" duration="1080000" />
+      <workItem from="1574383510244" duration="1997000" />
     </task>
     <servers />
   </component>
