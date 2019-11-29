@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Percentages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Percentages2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/FormLetterWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/SandwichFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/TestBread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/TestSandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/TestSandwichFilling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/Exercises/ChiliToGoProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/Exercises/ChiliToGoProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/DebuggingExercises/DebugThree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/DebuggingExercises/DebugThree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ChiliToGoProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/ChiliToGoProfit.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,37 +61,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Insurance">
-    <configuration name="Insurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Insurance" />
+  <component name="RunManager" selected="Application.TestSandwich">
+    <configuration name="Billing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Billing" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
+    <configuration name="FormLetterWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormLetterWriter" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersDemo2" />
+    <configuration name="TestBread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBread" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percentages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percentages" />
+    <configuration name="TestSandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSandwich" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percentages2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percentages2" />
+    <configuration name="TestSandwichFilling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSandwichFilling" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Insurance" />
-        <item itemvalue="Application.Percentages2" />
-        <item itemvalue="Application.Percentages" />
-        <item itemvalue="Application.NumbersDemo2" />
-        <item itemvalue="Application.NumbersDemo" />
+        <item itemvalue="Application.TestSandwich" />
+        <item itemvalue="Application.TestSandwichFilling" />
+        <item itemvalue="Application.TestBread" />
+        <item itemvalue="Application.Billing" />
+        <item itemvalue="Application.FormLetterWriter" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +121,7 @@
       <workItem from="1573785158360" duration="455000" />
       <workItem from="1574383510244" duration="10770000" />
       <workItem from="1574413895828" duration="436000" />
-      <workItem from="1574989511744" duration="4847000" />
+      <workItem from="1574989511744" duration="11650000" />
     </task>
     <servers />
   </component>
