@@ -25,5 +25,6 @@ public class ChiliToGoProfit {
         System.out.println("Profit from kid meals: $" + kid_profit);
         System.out.println("Total Revenue: $" + kid_revenue.add(adult_revenue));
         System.out.println("Total Profit: $" + kid_profit.add(adult_profit));
+        user_input.close();
     }
 }

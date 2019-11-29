@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="" />
+    <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Percentages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/Exercises/Percentages2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/Exercises/ChiliToGoProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/Exercises/ChiliToGoProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/DebuggingExercises/DebugThree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/DebuggingExercises/DebugThree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/ChiliToGoProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/ChiliToGoProfit.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -51,37 +63,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChiliToGoProfit">
-    <configuration name="ChiliToGoProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChiliToGoProfit" />
+  <component name="RunManager" selected="Application.Insurance">
+    <configuration name="Insurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insurance" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dollars" />
+    <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InchesToFeetInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InchesToFeetInteractive" />
+    <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersDemo2" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Initials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Initials" />
+    <configuration name="Percentages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percentages" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinutesConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinutesConversion" />
+    <configuration name="Percentages2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percentages2" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChiliToGoProfit" />
-        <item itemvalue="Application.MinutesConversion" />
-        <item itemvalue="Application.Dollars" />
-        <item itemvalue="Application.InchesToFeetInteractive" />
-        <item itemvalue="Application.Initials" />
+        <item itemvalue="Application.Insurance" />
+        <item itemvalue="Application.Percentages2" />
+        <item itemvalue="Application.Percentages" />
+        <item itemvalue="Application.NumbersDemo2" />
+        <item itemvalue="Application.NumbersDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +121,9 @@
       <updated>1573698010793</updated>
       <workItem from="1573698015894" duration="3374000" />
       <workItem from="1573785158360" duration="455000" />
-      <workItem from="1574383510244" duration="10656000" />
+      <workItem from="1574383510244" duration="10770000" />
+      <workItem from="1574413895828" duration="436000" />
+      <workItem from="1574989511744" duration="4847000" />
     </task>
     <servers />
   </component>
