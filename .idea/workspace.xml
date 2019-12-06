@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Prac3.7z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Prac3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 2 Q4/NumbersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 2 Q4/NumbersDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 2 Q5/Percentages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 2 Q5/Percentages2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 2 Q9/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q1/FormLetterWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q2/Billing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/SandwichFilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/TestBread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/TestSandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/Exercises CH03-04/Task 6 Q5/TestSandwichFilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/AscendingAndDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/CellPhoneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/CountByAnything.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/CountByThrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/DiagonalOs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/Factorials.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Billing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Bread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/FormLetterWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Insurance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/NumbersDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Percentages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Percentages2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/Sandwich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/SandwichFilling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/TestBread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/TestSandwich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/Exercises/TestSandwichFilling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Billing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Bread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/FormLetterWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Insurance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/NumbersDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/NumbersDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Percentages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Percentages2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/Sandwich.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/SandwichFilling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/TestBread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/TestSandwich.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/TestSandwichFilling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch05/Exercises CH05-06/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/Factorials.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +115,7 @@
       <workItem from="1574383510244" duration="10770000" />
       <workItem from="1574413895828" duration="436000" />
       <workItem from="1574989511744" duration="12264000" />
-      <workItem from="1575593904560" duration="7990000" />
+      <workItem from="1575593904560" duration="9017000" />
     </task>
     <servers />
   </component>
