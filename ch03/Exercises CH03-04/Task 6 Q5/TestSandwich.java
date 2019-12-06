@@ -26,7 +26,7 @@ public class TestSandwich {
         System.out.println("Filling calories: " + yoursandwich.fill.getCalories_per_serving());
         System.out.println("Total calories " + yoursandwich.getSandwichCalories() + "\n");
         System.out.println("Their Sandwich: ");
-        
+
         Sandwich theirsandwich = new Sandwich(new Bread("Black", 2500), new Bread("SourRed", 350), new SandwichFilling("Bacon", 500));
         System.out.println("Bread type of slice 1: " + theirsandwich.slice1.getBread_type());
         System.out.println("Bread type of slice 2: " + theirsandwich.slice2.getBread_type());
