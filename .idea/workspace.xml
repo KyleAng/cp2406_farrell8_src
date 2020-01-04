@@ -2,10 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ArrayMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/BabyNameComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/CarCareChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/CarCareChoice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/DistanceFromAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ThreeLetterAcronym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/TwelveInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ValidatePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Candle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoHorses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoItemsAndPets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoRocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/IgneousRock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/ItemSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/MetamorphicRock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/PetSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/RaceHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/ScentedCandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/SedimentaryRock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/DemoTurners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/DemoTurners2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Fiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/GraduateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/NonFiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Pancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/StudentAtLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Turner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/TwoEventParticipants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/UndergraduateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Exercises/UseBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch05/Exercises CH05-06/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/Exercises CH05-06/Factorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/AscendingAndDescending.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/AscendingAndDescending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicals/META-INF/Practicals.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/META-INF/Practicals.kotlin_module" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,12 +73,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch01/CodeInFigures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,49 +95,37 @@
       <recent name="C:\Users\kylea\OneDrive\Documents\SP532019\CP2406 Programming III\Practicals\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.AscendingAndDescending">
-    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AscendingAndDescending" />
+  <component name="RunManager" selected="Application.DemoTurners2">
+    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookArray" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CellPhoneService" />
+    <configuration name="DemoTurners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTurners" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountByAnything" />
+    <configuration name="DemoTurners2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTurners2" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalOs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiagonalOs" />
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentDemo" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorials" />
+    <configuration name="TwoEventParticipants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoEventParticipants" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +133,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AscendingAndDescending" />
-        <item itemvalue="Application.DiagonalOs" />
-        <item itemvalue="Application.Factorials" />
-        <item itemvalue="Application.CellPhoneService" />
-        <item itemvalue="Application.CountByAnything" />
+        <item itemvalue="Application.DemoTurners2" />
+        <item itemvalue="Application.DemoTurners" />
+        <item itemvalue="Application.StudentDemo" />
+        <item itemvalue="Application.TwoEventParticipants" />
+        <item itemvalue="Application.BookArray" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -115,7 +168,18 @@
       <workItem from="1574383510244" duration="10770000" />
       <workItem from="1574413895828" duration="436000" />
       <workItem from="1574989511744" duration="12264000" />
-      <workItem from="1575593904560" duration="9017000" />
+      <workItem from="1575593904560" duration="9114000" />
+      <workItem from="1576198851991" duration="11368000" />
+      <workItem from="1576284524257" duration="872000" />
+      <workItem from="1576293413236" duration="234000" />
+      <workItem from="1576490086579" duration="679000" />
+      <workItem from="1576803278436" duration="6833000" />
+      <workItem from="1576890284752" duration="829000" />
+      <workItem from="1576892078917" duration="301000" />
+      <workItem from="1577430912692" duration="2563000" />
+      <workItem from="1577801278187" duration="48000" />
+      <workItem from="1578015028976" duration="4380000" />
+      <workItem from="1578019428678" duration="1755000" />
     </task>
     <servers />
   </component>
@@ -137,5 +201,43 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1578019377953">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1578019377953" />
+    <state x="465" y="179" key="FileChooserDialogImpl" timestamp="1578019414107">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="179" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1578019414107" />
+    <state width="990" height="234" key="GridCell.Tab.0.bottom" timestamp="1578097908755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="990" height="234" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
+    <state width="990" height="234" key="GridCell.Tab.0.center" timestamp="1578097908755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="990" height="234" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
+    <state width="990" height="234" key="GridCell.Tab.0.left" timestamp="1578097908754">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="990" height="234" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578097908754" />
+    <state width="990" height="234" key="GridCell.Tab.0.right" timestamp="1578097908755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="990" height="234" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1577801278234">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1577801278234" />
+    <state x="109" y="58" key="new project wizard" timestamp="1577801326634">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="58" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1577801326634" />
+    <state x="347" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1578017098653">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1578017098653" />
   </component>
 </project>
