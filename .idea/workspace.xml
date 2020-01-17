@@ -2,56 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d816b88-3981-4730-baf7-df61fc524250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ArrayMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/BabyNameComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/CarCareChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/CarCareChoice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/DistanceFromAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ThreeLetterAcronym.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/TwelveInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/Exercises CH07-08/ValidatePassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Candle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoCandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoHorses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoItemsAndPets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/DemoRocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/IgneousRock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/ItemSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/MetamorphicRock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/PetSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/RaceHorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/Rock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/ScentedCandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/SedimentaryRock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Exercises/test31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/BookArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/DemoTurners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/DemoTurners2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Fiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/GraduateStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/NonFiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Pancake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/StudentAtLarge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/StudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/Turner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/TwoEventParticipants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/UndergraduateStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Exercises/UseBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JBookQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JBookQuote2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JHistoricalFacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JPhotoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JTVDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Exercises/JTVDownload2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Exercises/JColorFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Exercises/JMovieFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Exercises/JMovingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Exercises/JavaJuniorCollege.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/AscendingAndDescending.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/AscendingAndDescending.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicals/META-INF/Practicals.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicals/META-INF/Practicals.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +43,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -95,37 +59,37 @@
       <recent name="C:\Users\kylea\OneDrive\Documents\SP532019\CP2406 Programming III\Practicals\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoTurners2">
-    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookArray" />
+  <component name="RunManager" selected="Application.JavaJuniorCollege">
+    <configuration name="JColorFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JColorFrame" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTurners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoTurners" />
+    <configuration name="JMovieFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JMovieFrame" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTurners2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoTurners2" />
+    <configuration name="JMovingFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JMovingFrame" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentDemo" />
+    <configuration name="JPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JPizza" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoEventParticipants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoEventParticipants" />
+    <configuration name="JavaJuniorCollege" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaJuniorCollege" />
       <module name="Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoTurners2" />
-        <item itemvalue="Application.DemoTurners" />
-        <item itemvalue="Application.StudentDemo" />
-        <item itemvalue="Application.TwoEventParticipants" />
-        <item itemvalue="Application.BookArray" />
+        <item itemvalue="Application.JavaJuniorCollege" />
+        <item itemvalue="Application.JMovingFrame" />
+        <item itemvalue="Application.JColorFrame" />
+        <item itemvalue="Application.JMovieFrame" />
+        <item itemvalue="Application.JPizza" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +144,9 @@
       <workItem from="1577801278187" duration="48000" />
       <workItem from="1578015028976" duration="4380000" />
       <workItem from="1578019428678" duration="1755000" />
+      <workItem from="1578564327048" duration="13286000" />
+      <workItem from="1578630421079" duration="8291000" />
+      <workItem from="1579222971743" duration="7998000" />
     </task>
     <servers />
   </component>
@@ -203,34 +170,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1578019377953">
+    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1578619972194">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1578019377953" />
-    <state x="465" y="179" key="FileChooserDialogImpl" timestamp="1578019414107">
+    <state x="491" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1578619972194" />
+    <state x="465" y="179" key="FileChooserDialogImpl" timestamp="1578701968390">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="179" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1578019414107" />
-    <state width="990" height="234" key="GridCell.Tab.0.bottom" timestamp="1578097908755">
+    <state x="465" y="179" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1578701968390" />
+    <state width="1150" height="234" key="GridCell.Tab.0.bottom" timestamp="1579231277416">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="990" height="234" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
-    <state width="990" height="234" key="GridCell.Tab.0.center" timestamp="1578097908755">
+    <state width="1150" height="234" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579231277416" />
+    <state width="1150" height="234" key="GridCell.Tab.0.center" timestamp="1579231277415">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="990" height="234" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
-    <state width="990" height="234" key="GridCell.Tab.0.left" timestamp="1578097908754">
+    <state width="1150" height="234" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1579231277415" />
+    <state width="1150" height="234" key="GridCell.Tab.0.left" timestamp="1579231277415">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="990" height="234" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578097908754" />
-    <state width="990" height="234" key="GridCell.Tab.0.right" timestamp="1578097908755">
+    <state width="1150" height="234" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1579231277415" />
+    <state width="1150" height="234" key="GridCell.Tab.0.right" timestamp="1579231277416">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="990" height="234" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578097908755" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1577801278234">
+    <state width="1150" height="234" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1579231277416" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578630422428">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1577801278234" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578630422428" />
     <state x="109" y="58" key="new project wizard" timestamp="1577801326634">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
